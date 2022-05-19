@@ -1,0 +1,16 @@
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\bin\Debug\net5.0\PlechovDmitry.exe
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\bin\Debug\net5.0\PlechovDmitry.deps.json
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\bin\Debug\net5.0\PlechovDmitry.runtimeconfig.json
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\bin\Debug\net5.0\PlechovDmitry.runtimeconfig.dev.json
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\bin\Debug\net5.0\PlechovDmitry.dll
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\bin\Debug\net5.0\ref\PlechovDmitry.dll
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\bin\Debug\net5.0\PlechovDmitry.pdb
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\obj\Debug\net5.0\PlechovDmitry.csproj.AssemblyReference.cache
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\obj\Debug\net5.0\PlechovDmitry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\obj\Debug\net5.0\PlechovDmitry.AssemblyInfoInputs.cache
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\obj\Debug\net5.0\PlechovDmitry.AssemblyInfo.cs
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\obj\Debug\net5.0\PlechovDmitry.csproj.CoreCompileInputs.cache
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\obj\Debug\net5.0\PlechovDmitry.dll
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\obj\Debug\net5.0\ref\PlechovDmitry.dll
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\obj\Debug\net5.0\PlechovDmitry.pdb
+C:\Users\дмитрий\source\repos\PlechovDmitry\PlechovDmitry\obj\Debug\net5.0\PlechovDmitry.genruntimeconfig.cache
