@@ -23,6 +23,7 @@ namespace PlechovDmitry
                 Condition(figure);
                 figure++;
             }
+            Console.ReadKey();
         }
     }
 }
